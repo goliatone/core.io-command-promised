@@ -1,6 +1,6 @@
 {
   "name": "core.io-command-promised",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Extend core.io with promised commands",
   "main": "index.js",
   "scripts": {
